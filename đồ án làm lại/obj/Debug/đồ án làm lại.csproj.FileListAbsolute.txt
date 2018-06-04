@@ -1,0 +1,61 @@
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.exe
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.pdb
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.exe
+c:\users\admin\documents\visual studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.addForm.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Information.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Ask.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_GameWord.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_remind.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_PhatAm.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_History.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Connect.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_googleTranslate.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_PopTranslate.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_ImageDetect.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.exe.config
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.exe
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.pdb
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.exe
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.pdb
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.csprojResolveAssemblyReference.cache
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.addForm.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form1.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Ask.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Connect.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_GameWord.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_googleTranslate.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_History.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_ImageDetect.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Information.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_PhatAm.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_PopTranslate.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_remind.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Properties.Resources.resources
+F:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.csproj.GenerateResource.Cache
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.exe.config
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.exe
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\bin\Debug\đồ án làm lại.pdb
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.csprojResolveAssemblyReference.cache
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.addForm.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form1.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Ask.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Connect.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_GameWord.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_googleTranslate.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_History.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_ImageDetect.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_Information.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_PhatAm.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_PopTranslate.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Form_remind.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.Properties.Resources.resources
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.csproj.GenerateResource.Cache
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.exe
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ án làm lại.pdb
+I:\HỌC TẬP\Visual Studio 2013\Projects\đồ án làm lại\đồ án làm lại\obj\Debug\đồ_án_làm_lại.MainForm.resources

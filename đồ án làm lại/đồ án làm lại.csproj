@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB30BBA4-2597-4BDC-A690-1580063CC4E4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>đồ_án_làm_lại</RootNamespace>
+    <AssemblyName>đồ án làm lại</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addForm.Designer.cs">
+      <DependentUpon>addForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DictEV.cs" />
+    <Compile Include="DictVE.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Ask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Ask.Designer.cs">
+      <DependentUpon>Form_Ask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Connect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Connect.Designer.cs">
+      <DependentUpon>Form_Connect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_GameWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_GameWord.Designer.cs">
+      <DependentUpon>Form_GameWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_googleTranslate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_googleTranslate.Designer.cs">
+      <DependentUpon>Form_googleTranslate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_History.Designer.cs">
+      <DependentUpon>Form_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ImageDetect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ImageDetect.Designer.cs">
+      <DependentUpon>Form_ImageDetect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Information.Designer.cs">
+      <DependentUpon>Form_Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PhatAm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PhatAm.Designer.cs">
+      <DependentUpon>Form_PhatAm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PopTranslate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PopTranslate.Designer.cs">
+      <DependentUpon>Form_PopTranslate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_remind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_remind.Designer.cs">
+      <DependentUpon>Form_remind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Idict.cs" />
+    <Compile Include="KeyboardHook.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="addForm.resx">
+      <DependentUpon>addForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Ask.resx">
+      <DependentUpon>Form_Ask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Connect.resx">
+      <DependentUpon>Form_Connect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_GameWord.resx">
+      <DependentUpon>Form_GameWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_googleTranslate.resx">
+      <DependentUpon>Form_googleTranslate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_History.resx">
+      <DependentUpon>Form_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ImageDetect.resx">
+      <DependentUpon>Form_ImageDetect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Information.resx">
+      <DependentUpon>Form_Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PhatAm.resx">
+      <DependentUpon>Form_PhatAm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PopTranslate.resx">
+      <DependentUpon>Form_PopTranslate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_remind.resx">
+      <DependentUpon>Form_remind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\image.bmp" />
+    <None Include="Resources\no.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
